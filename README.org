@@ -4,6 +4,6 @@ Tiny CL library to retrieve the arguments list of a function.
 
 |---------+-------------------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/trivial-arguments.git |
-| commit  | f843210                                               |
+| commit  | fee967a                                               |
 | systems | trivial-arguments                                     |
 |---------+-------------------------------------------------------| 
